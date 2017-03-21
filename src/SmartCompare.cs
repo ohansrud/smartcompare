@@ -4,7 +4,7 @@ using System.Linq;
 using System.Linq.Dynamic;
 using System.Reflection;
 
-namespace Noc.App_Helpers
+namespace SmartCompare
 {
     public class CompareResult<T>
     {

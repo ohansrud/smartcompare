@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+   <metadata>
+      <id>SmartCompare</id>
+      <version>1.0.0.0</version>
+      <title>SmartCompare</title>
+      <authors>oc.hansrud</authors>
+      <owners>oc.hansrud</owners>
+      <requireLicenseAcceptance>false</requireLicenseAcceptance>
+      <description>A simple tool for comparing .NET Arrays to distinguish alterered, unaltered, added, and removed objects</description>
+      <copyright>Copyright © 2017</copyright>
+      <dependencies />
+   </metadata>
+</package>
